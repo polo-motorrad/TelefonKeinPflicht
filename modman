@@ -1,2 +1,2 @@
-app/code/community/Webguys/*/ app/code/community/Webguys/
-app/etc/modules/* app/etc/modules/
+app/code/community/Webguys/Telefonkeinpflicht/ app/code/community/Webguys/Telefonkeinpflicht/
+app/etc/modules/Webguys_Telefonkeinpflicht.xml app/etc/modules/Webguys_Telefonkeinpflicht.xml
